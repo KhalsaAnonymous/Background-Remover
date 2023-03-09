@@ -2,6 +2,33 @@
 
 Background Remover is a simple Python script that can remove background from images using the rembg library. The script reads input images from the `images` directory, processes them to remove the background, and saves the output images to the `output` directory. The script is easy to use and can be customized to suit your needs.
 
+<p style="display: flex;align-items: center;justify-content: center;">
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-1.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-1.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-2.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-2.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-3.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/car-3.out.png" width="100" />
+</p>
+
+<p style="display: flex;align-items: center;justify-content: center;">
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-1.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-1.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-2.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-2.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-3.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/animal-3.out.png" width="100" />
+</p>
+
+<p style="display: flex;align-items: center;justify-content: center;">
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-1.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-1.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-2.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-2.out.png" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-3.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/KhalsaAnonymous/Background-Remover/master/examples/girl-3.out.png" width="100" />
+</p>
+
 ## Dependencies
 
 To run the script, you need to install the following dependency:
